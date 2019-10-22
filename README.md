@@ -88,7 +88,14 @@ _Reminders and researched notes for later_
     * Starts at $250/mo per user, but not every sales team member needs to be a user, also integrates with slack
     * Time and money estimations or allotments, depend on how much inventory is sitting around on deck, payment processing, shippers, and how cash strapped the business currently is or is-not
 
-    
+### Previous Projects to Mention 
+_Helpers to showcase my work and knowledge in space_
+* Ark Naturals
+* Yeti
+* Patagonia
+* BulletProof Coffee
+* Staples USA
+* Container and Packaging Supply
 
 ### Cloud & Colocation Bits
 Being a company from Louisville, KY- the bluegrass state, EFS can't afford not to use a data center and some sort of serious cloud offering. Kentucky has lowest cost of electricity east of the Mississippi and one of the lowest in the continental US at nearly 20% less than the national average.
