@@ -5,7 +5,8 @@ _Materials to share with the team, some reviewed, some were not_
 ## Craftsmanship
 ---
 _Show pieces for fun and extra/bonuses_
-* [Edleman Farm Supply Interactive SVG Map](https://codepen.io/iso646/pen/pooegrJ)
+* [Edleman Farm Supply - Power Point Show](https://iso646.github.io/ig-efs/EFS%20Case%20Study%20-%20Final.pdf)
+* [Edleman Farm Supply - Interactive SVG Map](https://codepen.io/iso646/pen/pooegrJ)
 * [Value-Risk Matrix - Idea Phase One](https://airtable.com/tblqmkkGOiyt6922l/viwxl6GRoSLg08BOH?blocks=hide)
 
 ## Presentation Bits
