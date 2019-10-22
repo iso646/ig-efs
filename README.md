@@ -2,10 +2,12 @@
 ---
 _Materials to share with the team, some reviewed, some were not_
 
-## Original Prompt - Case Study
+# Original Prompt - Case Study
 [Original Case Study for IG - EFS](https://iso646.github.io/ig-efs/Interview%20Case%20Prompt%20-%20EFS%20Website.pdf)
 
-## Craftsmanship
+
+
+# Craftsmanship
 ---
 _Show pieces for fun and extra/bonuses_
 * [Edleman Farm Supply- Power Point Show](https://iso646.github.io/ig-efs/EFS%20Case%20Study.pptx)
@@ -19,9 +21,11 @@ _Show pieces for fun and extra/bonuses_
 * [Grass Guzzler Paper Edition School Proj C 2004](https://github.com/iso646/ig-efs/PSpage24ae-Tracktor-Grass-Paper-Farming-Miskolczi-ProjFIles.jpg)
 * [SDG Infographic Contract Engagement Social AD Campaign](https://github.com/iso646/ig-efs/SDG-2.5-Infographic-Farming-Miskolczi-ProjFIles.png)
 
-## Presentation Bits
+
+# Presentation Bits
 ---
 _Reminders and researched notes for later_
+
 
 ## Extracted Business Intel
 ---
@@ -41,6 +45,7 @@ _Reminders and researched notes for later_
 * Configuration management is a combination of manual and auto processes
 * Microsoft SCCM is used to deploy Windows systems in 50% instances, others fail and require manual packages
 
+
 ## COO Pain Points
 ---
 * Wants to resolve:
@@ -55,6 +60,7 @@ _Reminders and researched notes for later_
     * everything: says assume nothing
     * newer ideas to breath life into org
     * communication platform to gain wins with other teams
+    
 
 ## Special to Avoid
 ---
@@ -62,6 +68,7 @@ _Reminders and researched notes for later_
 * Too heavy of a focus on SEO/SEM, until after launching tech suite
 * Software and tech packages without management and built in support
 * Costly cloud only solutions when they aren't IT heavy
+
 
 ## Quick Ideas to Jot
 ---
@@ -99,6 +106,7 @@ _Reminders and researched notes for later_
     * Integrate the salesforce solution with the POS, inventory, reporting, and colocation solutions offered in the previous option, AND create a strategy for growth as needed in the future, for complete cloud migration should total off-prem solution make more sense long term via a platform like the salesforce lighting distribution cloud AND/OR the heroku service offerings
     * Starts at $250/mo per user, but not every sales team member needs to be a user, also integrates with slack
     * Time and money estimations or allotments, depend on how much inventory is sitting around on deck, payment processing, shippers, and how cash strapped the business currently is or is-not
+    
 
 ## Previous Projects to Mention 
 ---
@@ -110,9 +118,11 @@ _Helpers to showcase my work and knowledge in space_
 * Staples USA
 * Container and Packaging Supply
 
+
 ## Cloud & Colocation Bits
 ---
 Being a company from Louisville, KY- the bluegrass state, EFS can't afford not to use a data center and some sort of serious cloud offering. Kentucky has lowest cost of electricity east of the Mississippi and one of the lowest in the continental US at nearly 20% less than the national average.
+
 
 ## Areas of Focus
 ---
@@ -122,6 +132,7 @@ Being a company from Louisville, KY- the bluegrass state, EFS can't afford not t
 4. Long term strategy for product cohesion and vision
 
 _steps should be concurrent_
+
 
 ## Highlighted Staffing Needs 
 ---
@@ -133,9 +144,11 @@ _Per IG's Purpose_
 * Increase in associates (alliance partners) for B2B and B2C alliances with companies like REI and Bass Pro Shops
 * Increase in finance personnel for the loan officer role per the refocus towards the emphasis on sales, leases, rentals, etc
 
+
 ## Timing and Pricing
 ---
 > If going with a solution like salesforce where it's out of the box and setup charges are associated, then the time is reduced. If instead the idea is to colocate servers and custom service platforms internally, costs will be reduced significantly, but the timing won't be... All other bits are conjecture, not worthy of discussion without knowing processing and gateways info.
+
 
 ## Salesforce Yeti Highlights to Mention
 ---
@@ -150,6 +163,7 @@ Salesforce commerce platform B2B is a smaller requirement with pricing in and ar
   * Can be offset if Insight global were to become a salesforce redistributor AND/OR if the development services were partially staffed by Insight Global
   * Could do something like Shopify if desired, where the initial setup fees are much lower and the ability to integrate with sage ERP is much better initially, but the long term support costs associated with Ruby based devs is much higher
   * Also an option with Magento, but similar hurdles remain with costs up front, and PHP devs, but the added issue for payment processing. Really only a good choice if you need multiple skus from multiple warehouses and a plethora of B2B and B2C combination vendors/customers/clients
+  
   
 ## Extra Resources for their Reading Pleasure 
 ---
@@ -203,6 +217,7 @@ _If team wants, can share to help them know where some info outside of head came
 ## Closing Remarks
 ---
 > Lets go ahead and put something up on the calendar, to review with your current development teams, to ascertain the technical debt currently sitting with the company, so to mean what are the applications themselves actually doing, what payment processing gateways are required/non-negotiable and what kinds of services are being maintained in the legacy environments. That way we can asssess which direction is really needed, be it an all-in-one managed solution or a hybrid solution retaining some physical premise locations for the managed web/platform services
+
 
 ## Suggested Solutions Overview
 ---
