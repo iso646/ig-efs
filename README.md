@@ -20,8 +20,8 @@ _Show pieces for fun and extra/bonuses_
 ---
 _Reminders and researched notes for later_
 
-### Extracted Business Intel
-
+## Extracted Business Intel
+---
 * 3rd largest tractor supply
 * Recently added apparel and accessories
 * Slow market growth and revenue, 70 yr strategy from 1948
@@ -38,8 +38,8 @@ _Reminders and researched notes for later_
 * Configuration management is a combination of manual and auto processes
 * Microsoft SCCM is used to deploy Windows systems in 50% instances, others fail and require manual packages
 
-### COO Pain Points
-
+## COO Pain Points
+---
 * Wants to resolve:
     * excessive operational support
     * poor SLAs
@@ -53,13 +53,15 @@ _Reminders and researched notes for later_
     * newer ideas to breath life into org
     * communication platform to gain wins with other teams
 
-### Special to Avoid
+## Special to Avoid
+---
 * RHEL 8.x, support isn't there and the platform isn't solid/stable enough for a higher than 97% uptime SLA
 * Too heavy of a focus on SEO/SEM, until after launching tech suite
 * Software and tech packages without management and built in support
 * Costly cloud only solutions when they aren't IT heavy
 
-### Quick Ideas to Jot
+## Quick Ideas to Jot
+---
 * Ubuntu based platform, with Windows as an additional option, away from RHEL support costs and licensing
 * KY or Southern district based hosting and server solutions provider (managed lower cost than their IT techs now) (especially fantastic if board members are older as well)
 * Website updated to include significant photography of the farm, emphasizing "American" values connection since 1948
@@ -95,7 +97,8 @@ _Reminders and researched notes for later_
     * Starts at $250/mo per user, but not every sales team member needs to be a user, also integrates with slack
     * Time and money estimations or allotments, depend on how much inventory is sitting around on deck, payment processing, shippers, and how cash strapped the business currently is or is-not
 
-### Previous Projects to Mention 
+## Previous Projects to Mention 
+---
 _Helpers to showcase my work and knowledge in space_
 * Ark Naturals
 * Yeti
@@ -104,10 +107,12 @@ _Helpers to showcase my work and knowledge in space_
 * Staples USA
 * Container and Packaging Supply
 
-### Cloud & Colocation Bits
+## Cloud & Colocation Bits
+---
 Being a company from Louisville, KY- the bluegrass state, EFS can't afford not to use a data center and some sort of serious cloud offering. Kentucky has lowest cost of electricity east of the Mississippi and one of the lowest in the continental US at nearly 20% less than the national average.
 
-### Areas of Focus
+## Areas of Focus
+---
 1. Community Engagement (esp with the Farm, merchandise will follow) -- making website events, engagement and sales focused
 2. Improve stability of services offered and platform SLAs
 3. Improve internal communication, inventory, lead gen and sales pipeline management
@@ -115,17 +120,22 @@ Being a company from Louisville, KY- the bluegrass state, EFS can't afford not t
 
 _steps should be concurrent_
 
-### Highlighted Staffing Needs _Per IG's Purpose_
+## Highlighted Staffing Needs 
+---
+_Per IG's Purpose_
+
 * Reduction in labor force for lower cost "help desk" personnel responsible for purely maintenance or upgrade driven software/systems tasks
 * Increase in customer service and sales facing staff needs based on more productive marketing and campaign generation management strategy
 * Increase in farming location and management staff based on the community events and responses
 * Increase in associates (alliance partners) for B2B and B2C alliances with companies like REI and Bass Pro Shops
 * Increase in finance personnel for the loan officer role per the refocus towards the emphasis on sales, leases, rentals, etc
 
-### Timing and Pricing
+## Timing and Pricing
+---
 > If going with a solution like salesforce where it's out of the box and setup charges are associated, then the time is reduced. If instead the idea is to colocate servers and custom service platforms internally, costs will be reduced significantly, but the timing won't be... All other bits are conjecture, not worthy of discussion without knowing processing and gateways info.
 
-### Salesforce Yeti Highlights to Mention
+## Salesforce Yeti Highlights to Mention
+---
 * Yeti use case with Salesforce integrations estimated about 250 employees deemed total, so even if worst case scenario, $750,000 yearly for the complete consumer goods services
 * Though only about 10% max, are estimated for the amount of users that would need to be listed users or billable users on the platform, so if we instead said approximately: $75,000 for the sales cloud, service cloud, marketing cloud AND salesforce platform...
 * 1 to 1 most likely regarding helpdesk techs to customer service reps (added) conversion translating to low net costs here
@@ -138,7 +148,8 @@ Salesforce commerce platform B2B is a smaller requirement with pricing in and ar
   * Could do something like Shopify if desired, where the initial setup fees are much lower and the ability to integrate with sage ERP is much better initially, but the long term support costs associated with Ruby based devs is much higher
   * Also an option with Magento, but similar hurdles remain with costs up front, and PHP devs, but the added issue for payment processing. Really only a good choice if you need multiple skus from multiple warehouses and a plethora of B2B and B2C combination vendors/customers/clients
   
-### Extra Resources for their Reading Pleasure 
+## Extra Resources for their Reading Pleasure 
+---
 _If team wants, can share to help them know where some info outside of head came from_
 * Ubuntu Organizations - Enterprise
   * https://ubuntu.com/desktop/organisations
@@ -186,7 +197,8 @@ _If team wants, can share to help them know where some info outside of head came
   * Get connected with the paducah travel websites, social media pages, etc
 
 
-### Closing Remarks
+## Closing Remarks
+---
 > Lets go ahead and put something up on the calendar, to review with your current development teams, to ascertain the technical debt currently sitting with the company, so to mean what are the applications themselves actually doing, what payment processing gateways are required/non-negotiable and what kinds of services are being maintained in the legacy environments. That way we can asssess which direction is really needed, be it an all-in-one managed solution or a hybrid solution retaining some physical premise locations for the managed web/platform services
 
 ## Suggested Solutions Overview
