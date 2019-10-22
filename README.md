@@ -5,9 +5,16 @@ _Materials to share with the team, some reviewed, some were not_
 ## Craftsmanship
 ---
 _Show pieces for fun and extra/bonuses_
-* [Edleman Farm Supply - Power Point Show](https://iso646.github.io/ig-efs/EFS%20Case%20Study%20-%20Final.pdf)
+* [Edleman Farm Supply- Power Point Show](https://iso646.github.io/ig-efs/EFS%20Case%20Study.pptx)
+* [Edleman Farm Supply - Power Point Show - PDF](https://iso646.github.io/ig-efs/EFS%20Case%20Study%20-%20Final.pdf)
 * [Edleman Farm Supply - Interactive SVG Map](https://codepen.io/iso646/pen/pooegrJ)
 * [Value-Risk Matrix - Idea Phase One](https://airtable.com/tblqmkkGOiyt6922l/viwxl6GRoSLg08BOH?blocks=hide)
+* [Agriculture Matters USDA Infographic Proj](https://iso646.github.io/ig-efs/Agricultural-Trade-Matters-Farming-Miskolczi-ProjFIles.jpg)
+* [Anson-County-NC Infographic Proj](https://iso646.github.io/ig-efs/Anson-County-Infographic-Poster-Farming-Miskolczi-ProjFIles.jpg)
+* [John Deer Comparison Infographic Proj. _(Might be touchy, competitor)_](https://iso646.github.io/ig-efs/DeerComparison-Infographic-Farming-Miskolczi-ProjFIles.jpg)
+* [Equipment Infographic for Toms Farms Proj](https://github.com/iso646/ig-efs/blob/master/EquipmentInfographic.png)
+* [Grass Guzzler Paper Edition School Proj C 2004](https://github.com/iso646/ig-efs/PSpage24ae-Tracktor-Grass-Paper-Farming-Miskolczi-ProjFIles.jpg)
+* [SDG Infographic Contract Engagement Social AD Campaign](https://github.com/iso646/ig-efs/SDG-2.5-Infographic-Farming-Miskolczi-ProjFIles.png)
 
 ## Presentation Bits
 ---
