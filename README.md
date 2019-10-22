@@ -190,40 +190,40 @@ _Emailed to Team_
   * Translates to an meeting closing with suggestion for second appointment scheduled on books to assess current technical debt
   * Definitely a lunch type of meeting that can be presented over a few slides on an iPad
 * Strategy Highlights
-  * Step 1: Connect with the local community on events highlighting farm, winning new UI/marketing assets in the process
+  * **Step 1: Connect with the local community on events highlighting farm, winning new UI/marketing assets in the process**
     * activities taking advantage of Paducah's award winning art culture (esp landscape photography)
     * targeted campaigns/events for local residents per holidays (halloween farm events, etc)
     * emphasis on rentals, leases, and financing for equipment useful to local college students per move-ins, etc
     * brand ambassadors with UK students and Murray State (nations largest argicultural university)
-  * Step 2: Improve stability of all platform SLAs via colocation AND/OR boxed-solution
+  * **Step 2: Improve stability of all platform SLAs via colocation AND/OR boxed-solution**
     * take advantage of KYs lowest electricity costs in the US by over 20%
     * utilize datacenters off-set pricing via colocation with centers hosting UPS, Samsung, etc
     * remote management services offering solution-sets cheaper than current costs with RHEL licenses improperly utilized
     * Elimination of unpredicatable maintenance and development trigger dataloss
     * Increasing security and guaranteed uptime service availability to better than 99.997%
-  * Step 3: Adopt a CRM and ERP integrated strategy, fostering better communication between inter-departmental teams, business to consumer and business to business partnerships
+  * **Step 3: Adopt a CRM and ERP integrated strategy, fostering better communication between inter-departmental teams, business to consumer and business to business partnerships**
     * Improvement of inventory tracking via out-of-box platform and automated services
     * Improvement of business partner connected resources/web platforms to foster stable communication with firms like REI/BassPro, etc
     * Improvement of sales team communication throughout lead generation and sales performance pipeline
-  * Step 4: Analysis of inventory movement, traffic/impressions via marketing and transaction processing GVM rates in quarters following steps 1-3
+  * **Step 4: Analysis of inventory movement, traffic/impressions via marketing and transaction processing GVM rates in quarters following steps 1-3**
     * Using analysis of inventory movement to create stable sku management and product offering vision
     * Cohesive strategies between payment processors, GVM rates and transaction processing fees
     * Determination of UI, Customer Experience tracking software and colocation needs based on analysis (i.e. ShopifyPlus vs Magento vs Salesforce, etc)
-* Overall recommendation in a nutshell:
+* _Overall recommendation in a nutshell:_
   * Improve Commuity Engagement
   * Move to the Salesforce Commerce Goods Platform, encompassing the Sales Cloud, Marketing Cloud, Commerce Cloud, Service Cloud and Salesforce Platform
   * Run Infastructure through a Colocation and Remotely Managed Solution-Set so Edleman Farm Supply can focus more on what they do best, not DevOps
-* Time and Cost Estimations
-  * Step 1: 4-6 months depending on community season, discounts on merchandise per brand ambassadors, increase staffing by about 1-2% for farm locale
-  * Step 2:
+* _Time and Cost Estimations_
+  * _Step 1:_ 4-6 months depending on community season, discounts on merchandise per brand ambassadors, increase staffing by about 1-2% for farm locale
+  * _Step 2:_
     * $350,000 to $500,000 and 6-12 months depending on integrations for boxed solution with annual $25,000 development service agreement
     * Starting at $400,000 for hybrid managed solution off-prem/cloud depending on transactions annually and 9-18 months depending on integrations
     * Reduction in costs of about 2-5% in low-pay-grade support personnel
     * Reduction in costs of about $3,000 annually per RHEL instance and about $1,200 annually per Windows Server instance retired for per solution
-  * Step 3:
+  * _Step 3:_
     * See step 2 for costs
     * Timing requires second meeting per technical debt, but could be as low as 6 months if using boxed-solution
-  * Step 4:
+  * _Step 4:_
     * Depends on stakeholders and associated board members comfort levels and projection/analysis schedule vs fiscal year
     * Internal Notes Regarding Synergy for Insight Global (not discussed with client)
     * Sourcing of low-pay-grade technical personnel would be reduced, but new customer service & sales rep needs could be an increase in staffing opportunities
