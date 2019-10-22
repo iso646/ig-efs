@@ -2,6 +2,9 @@
 ---
 _Materials to share with the team, some reviewed, some were not_
 
+## Original Prompt - Case Study
+[Original Case Study for IG - EFS](https://iso646.github.io/ig-efs/Interview%20Case%20Prompt%20-%20EFS%20Website.pdf)
+
 ## Craftsmanship
 ---
 _Show pieces for fun and extra/bonuses_
